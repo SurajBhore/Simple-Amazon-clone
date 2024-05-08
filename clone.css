@@ -1,0 +1,267 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #e2e7e6;
+    color: white;
+}
+#header{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    background-image: url("./amazon clon/amazon_logo.png");
+    background-size: cover;
+}#option-input-search{
+    display: flex;
+    width: 45%;
+}
+#deliver{
+  color: #cccccc;
+}
+#india{
+    
+    color: #ffffff;
+    font-weight:600;
+    font-size: 17px;
+}
+.in-search{
+    width: 600px;
+    height: 40px;
+    margin-top: 10px;
+}
+.select{
+    height: 40px;
+    margin-top: 10px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+}
+#search-icon{
+    width: 10%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #e48d12;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.hello-sign-acc-list,.retu-order,.cart-icon,#deliver{
+    margin-top: 10px;
+    color: #cccccc;
+}
+#acc-list{
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 17px;
+}
+#order{
+    font-weight: 600;
+    font-size: 17px;
+    color: #ffffff;
+}
+.cart-icon{
+    margin-right: 15px;
+  
+}
+.fa-cart-shopping{
+    font-size: 25px;
+}
+#cart{
+    font-weight: 600;
+    margin-top: 0.7rem;
+    font-size: 17px;
+    color: #ffffff;
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+#secsubheader{
+    width: 100%;
+    height: 40px;
+    background-color: #222f3d;
+}
+.fa-bars{
+    margin-top: 0.6rem;
+    margin-left: 10px;
+}
+#subpoint{
+    display: flex;
+}
+#subpoint div{
+    margin-left: 50px;
+    margin-top: -1rem;
+   
+}
+#lasttext{
+    position: absolute;
+    top: 68px;
+    right: 15px;
+    font-size: 20px;
+}
+#horizontalbox{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-image: url("./amazon clon/hero_image.jpg");
+    background-size: cover;
+}
+#text{
+    margin-left: 15%;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    font-size: 13px;
+}
+#main{
+    background-color: white;
+}
+.shopping{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box{
+    height: 400px;
+    width: 23%;
+    margin: 10px;
+    color: black;
+    background-color: white;
+}
+#bimg{
+    height: 300px;
+    background-size: cover;
+}
+#fordesign{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+#fordesign h2{
+    font-weight: 900;
+}
+#signup{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+#line{
+    position: absolute;
+    margin-top: 50px;
+     display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 1px;
+    background-color: rgb(159, 155, 155);
+}#signbtn{
+    width: 12rem;
+    height: 3rem;
+    background-color: #e48d12;
+    margin-top: 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+
+}
+.para a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+
+}
+.para{
+   margin-top: 12px;
+   font-weight: 500;
+}
+.newcust{
+    color: black;
+ margin-top: -6rem;
+ margin-left: 33rem;
+ font-size: 18px;
+ font-weight: 500;
+ 
+}
+#lline{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(159, 155, 155);
+    margin-top: 50px;
+    margin-bottom: 1rem;
+}
+#back-to-top{
+    width: 100%;
+    height: 48px;
+    background-color: #37475a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    background-color: #232f3e;
+}
+.foo{
+    
+    width: 24%;
+    margin: 10px;
+}
+.all{
+ margin: 3rem 1rem 0rem 2rem; 
+ font-size: 20px;
+ color: #ffffff;  
+ font-weight: 400;
+}
+.subfoo{
+    margin: 2rem 1rem 0rem 2rem; 
+    font-family: arial;
+}
+.set{
+    padding: 8px;
+    font-size: 14px;
+    font-family: arial;
+    color: #dddddd;
+}#fooline{
+    width:100% ;
+    height: 1px ;
+    background-color: black;
+}
+#foologo{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232f3e;
+}
+#flogo{
+    width: 100px;
+    height: 50px;
+    background-image: url("./amazon clon/amazon_logo.png");
+    background-size: cover;
+}
+#mainfooter{
+    width: 100%;
+    height: 100px;
+    background-color: #131a22;
+}#copy,#seccopy{
+    display: flex;
+    justify-content: center;
+}.o{
+    margin-top: 45px;
+}.s{
+    font-size: 12px;
+}
+.l{
+    margin-top: -7px;
+}
+.fa-magnifying-glass{
+    margin-top: 0.5rem;
+    margin-left: 0.6rem;
+    font-size: 25px;
+}
